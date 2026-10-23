@@ -75,15 +75,6 @@ cybersafe-alexa-plus/
 └── README.md
 ```
 
-## 🎥 Demo video (< 3 min) — script
-
-1. **0:00–0:20** — Intro: what CyberSafe Alexa+ is, privacy-first promise.
-2. **0:20–1:00** — Assistant tab: paste a phishing email → show workflow trace + risk score + advice.
-3. **1:00–1:30** — URL Checker: analyze a spoofed `paypal-…tk` link; show each check.
-4. **1:30–2:10** — Smart-Home checklist → posture score → priority fixes.
-5. **2:10–2:40** — Activity Log + Dashboard.
-6. **2:40–3:00** — Closing: agentic workflow recap + GitHub link.
-
 ## 🏆 Devpost
 
 See `DEVPOST.md` for the ready-to-paste project description.
